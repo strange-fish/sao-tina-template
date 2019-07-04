@@ -1,12 +1,12 @@
 {
-  "name": "sao-sample",
+  "name": "sao-tina-template",
   "version": "0.0.0",
   "description": "my kryptonian SAO generator",
   "repository": {
-    "url": "/sao-sample",
+    "url": "github.com/strange-fish/sao-tina-template",
     "type": "git"
   },
-  "author": " <519208032@qq.com> (github.com/)",
+  "author": " <519208032@qq.com> (github.com/strange-fish/sao-tina-template)",
   "license": "MIT",
   "files": [
     "saofile.js",
