@@ -15,13 +15,13 @@ npm i -g sao
 ### From npm
 
 ```bash
-sao sample my-project
+sao sao-tina-template my-project
 ```
 
 ### From git
 
 ```bash
-sao /sao-sample my-project
+sao strange-fish/sao-tina-template my-project
 ```
 
 ## License
